@@ -1,1 +1,1 @@
-# gin-platform
+gin-platform
